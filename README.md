@@ -1,0 +1,2 @@
+# networking
+ - Recommended mitigation strategy.  - Document the OSI layer where the findings were found.   ### Topics Covered in Your Assignment  - Subnetting - CIDR - IP Addresses - `fping` - OSI Model and OSI Layers - Protocols - Ports - Wireshark - PCAP Analysis - `DNS` - `HTTP` - `ARP` - `Syn` Scan - `TCP` - `nslookup` - Network Vulnerability Assessments - Network Vulnerability Mitigation  ---
