@@ -118,7 +118,7 @@
  ## 2. Evidence of ARP poisoning - Man in the middle attack.
     
    * 1 - Evidence of gratuitous ARP reply -  packets sent to thbroadcast MAC address with the target IP address set to be the samas the sender's IP address 
-   ![screenshot 1 wireshark, image info](.\resources\Screenshot_1.png)
+   ![screenshot 1 wireshark, image info](..\resources\Screenshot_1.png)
    **Datalink Layer 2 and Newtwork Layer 3**
    * 2        
    ![screenshot 2 wireshark, image info](.\resources\Screenshot_2.png)
