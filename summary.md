@@ -121,9 +121,9 @@
    ![screenshot 1 wireshark, image info](https://github.com/FelipeBrod/networking/blob/main/resources/Screenshot_1.png)
    **Datalink Layer 2 and Newtwork Layer 3**
    * 2        
-   ![screenshot 2 wireshark, image info](.\resources\Screenshot_2.png)
+   ![screenshot 2 wireshark, image info](https://github.com/FelipeBrod/networking/blob/main/resources/Screenshot_2.png)
    **Datalink Layer 2 and Newtwork Layer 3**
    * 3 - An employee from Rock Star posted in website that they arwilling to provide ssh keys for 1m dollars. 
-   ![screenshot 3 wireshark, image info](.\resources\Screenshot_3.png)
+   ![screenshot 3 wireshark, image info](https://github.com/FelipeBrod/networking/blob/main/resources/Screenshot_3.png)
    POST resquest **Application Layer 7**
 
